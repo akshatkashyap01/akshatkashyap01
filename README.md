@@ -7,7 +7,7 @@
 🤔 **Need Help With:** Breaking into **DevOps**—Kubernetes, CI/CD, AWS, you name it!  
 
 ## 💻 Tech Stack  
-- **Backend:** Java, Spring Boot, Microservices, Reactive Programming, PHP, Laravel, Node.js  
+- **Backend:** Java, Spring Boot, Microservices, Reactive Programming, PHP, Laravel, Node.js, Typescript
 - **Frontend:** React, Vue.js  
 - **Other Skills:** API Design, RESTful Services, Database Management  
 
