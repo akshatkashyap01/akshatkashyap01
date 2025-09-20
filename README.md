@@ -1,7 +1,7 @@
 # Hey there, Akshat Kashyap here! 👋  
 
 ## 🚀 About Me  
-🔭 **Currently Building:** Scalable apps with **Spring Boot**
+🔭 **Currently Building:** Scalable apps with **Spring Boot** <br>
 🌱 **Currently Exploring:** Advanced **React concepts** & modern front-end architectures  
 👯 **Looking to Collaborate On:** Anything **React-related**—let’s build something awesome!  
 🤔 **Need Help With:** Breaking into **DevOps**—Kubernetes, CI/CD, AWS, you name it!  
