@@ -20,5 +20,3 @@
 📧 **Email:** [akshatkashyap01@gmail.com](mailto:akshatkashyap01@gmail.com)  
 🔗 **LinkedIn:** [Akshat Kashyap](https://www.linkedin.com/in/akshat-kashyap-659a611a8/)  
 
-## ⚡ Fun Fact  
-I can talk about **tech stacks** all day, but challenge me to a coding speedrun, and I’m all in! 😎  
