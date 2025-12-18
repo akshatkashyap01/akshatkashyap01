@@ -1,7 +1,7 @@
 # Hey there, Akshat Kashyap here! 👋  
 
 ## 🚀 About Me  
-  I’m a backend-focused Software Engineer working in the Fraud & Risk Modernization team at Global Payments, building and improving enterprise-grade payment systems. I specialize in Java, Spring Boot, and microservices, with hands-on experience in Java, Spring Boot, microservices, AWS, and data correctness in compliance-heavy environments. I enjoy solving complex backend problems where accuracy, scalability, and reliability directly impact transaction security and customer trust.
+  I’m a backend-focused Software Engineer working in the Fraud & Risk Modernization team at Global Payments, building and improving enterprise-grade payment systems. I specialize in Java, Spring Boot, and microservices, with hands-on experience in Java, Spring Boot, microservices, AWS, and data correctness in compliance-heavy environments. I enjoy solving complex backend problems where accuracy, scalability, and reliability directly impact transaction security .
 
 ## 💻 Tech Stack  
 - **Backend:** Java, Spring Boot, Microservices, Reactive Programming, PHP, Laravel, Node.js, Typescript
