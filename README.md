@@ -1,10 +1,9 @@
 # Hey there, Akshat Kashyap here! 👋  
 
 ## 🚀 About Me  
-🔭 **Currently Building:** Scalable apps with **Spring Boot** <br>
-🌱 **Currently Exploring:** Advanced **React concepts** & modern front-end architectures  
-👯 **Looking to Collaborate On:** Anything **React-related**—let’s build something awesome!  
-🤔 **Need Help With:** Breaking into **DevOps**—Kubernetes, CI/CD, AWS, you name it!  
+  **Currently Building:** Scalable apps with **Spring Boot** <br>
+  **Looking to Collaborate On:** Anything **Java-related**—let’s build something awesome!  
+  **Need Help With:** Breaking into **DevOps**—Kubernetes, CI/CD, AWS, you name it!  
 
 ## 💻 Tech Stack  
 - **Backend:** Java, Spring Boot, Microservices, Reactive Programming, PHP, Laravel, Node.js, Typescript
